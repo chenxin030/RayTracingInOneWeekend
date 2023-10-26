@@ -42,6 +42,9 @@
     <ClCompile Include="src\material.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\moving_sphere.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\vector.h">
@@ -69,6 +72,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="src\stb_image_write.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\moving_sphere.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
